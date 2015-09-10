@@ -1,0 +1,4 @@
+../workspace/.c9/metadata/workspace/src/assets/images/decodemtl-logo-white.png
+../workspace/.c9/metadata/workspace/src/assets/images/decodemtl-logo-black.png
+../workspace/src/assets/images/decodemtl-logo-white.png
+../workspace/src/assets/images/decodemtl-logo-black.png
