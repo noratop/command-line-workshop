@@ -1,0 +1,8 @@
+/home/ubuntu/workspace/.c9/metadata/workspace/~/.c9/user.settings
+/home/ubuntu/workspace/README.md
+/home/ubuntu/workspace/.git/index
+/home/ubuntu/workspace/src/on-demand/index.html
+/home/ubuntu/workspace/src/_data/fulltime_learn.json
+/home/ubuntu/workspace/src/_data/fulltime_curriculum.json
+/home/ubuntu/workspace/src/_config.yml
+/home/ubuntu/workspace/src/_layouts/default.html
