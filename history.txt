@@ -1,0 +1,132 @@
+    1  git branch new-location
+    2  git status
+    3  git checkout new-location 
+    4  git status 
+    5  git add srgit add src/_layouts/default.html
+    6  git add src/_layouts/default.html
+    7  git status 
+    8  git commit -m "change GriffinCamp to LaCommune"
+    9  git push
+   10  git commit -m "change GriffinCamp to LaCommune"
+   11  git status
+   12  git checkout visual-change -b
+   13  git checkout visual-change -B
+   14  git branch -b visual-change
+   15  git checkout visual-change -b
+   16  git checkout -b visual-change
+   17  git checkout new-location 
+   18  git checkout visual-change 
+   19  git checkout new-location 
+   20  git status
+   21  git add src/_data/faq.json
+   22  git commit -m"
+   23  git checkout master
+   24  git checkout -b visual-features
+   25  git log
+   26  git branch -D visual-change 
+   27  git branch
+   28  git branch new-location 
+   29  git checkout new-location 
+   30  git status
+   31  git commit -m "updated faq.json to include LaCommune as new location"
+   32  gs
+   33  git status
+   34  git push
+   35  git status 
+   36  git add src/_data/fulltime_faq.json
+   37  git status
+   38  git commit -m "updated fulltime_faq.json to include La Commune as new location of the course"
+   39  git push
+   40  git status
+   41  git add src/about/index.html
+   42  git status
+   43  git commit -m "updated DecodeMTL's about page to change the location of the course, full paragraph might needs to be changed" 
+   44  git push
+   45  git status
+   46  git add src/about/index.html
+   47  git commit -m "updated LaCommune description in About DecodeMTL page"
+   48  git push
+   49  git status
+   50  git add /home/ubuntu/workspace/src/_data/faq.json /home/ubuntu/workspace/src/_data/fulltime_faq.json
+   51  git status
+   52  git commit -m "updated faq.json and fulltime_faq.json with the right floor indication for course location"
+   53  git push
+   54  git checkout visual-features 
+   55  git status
+   56  git add src/assets/scss/_intro-section.scss 
+   57  git status
+   58  git push
+   59  git push --set-upstream origin visual-features
+   60  git commit -m "change hover color of intro_section link to courses"
+   61  git status
+   62  git push
+   63  git statis
+   64  git status
+   65  git add src/assets/scss/_main-header.scss
+   66  git status
+   67  git add src/assets/scss/_main-header.scss
+   68  git commit -m "modified color of the sub nav courses links"
+   69  git push
+   70  git status
+   71  git log
+   72  git branch master
+   73  git checkout master
+   74  git status
+   75  git checkout -b master-alt
+   76  git merge new-location 
+   77  git merge visual-features 
+   78  git merge visual-features
+   79  git commit -m "merge new-location and visual-features to new branch master-alt"
+   80  git status
+   81  git log
+   82  git push origin master-alt 
+   83  git remote set-url origin git@github.com:noratop/decodemtl.git
+   84  git push origin master-alt 
+   85  git log
+   86  git checkout master
+   87  git checkout -b master-alt2
+   88  git checkout new-location 
+   89  git rebase master-alt2
+   90  git log
+   91  git checkout master
+   92  git checkout master-alt2
+   93  git log
+   94  git checkout new-location 
+   95  git rebase master-alt2
+   96  git checkout visual-features 
+   97  git rebase new-location 
+   98  git log
+   99  git merge master-alt2
+  100  git checkout master-alt2
+  101  git merge visual-features 
+  102  ls
+  103  man find
+  104  ls -l
+  105  man find
+  106  man grep
+  107  cd
+  108  ls
+  109  find "*logo*"
+  110  find -name "*logo*"
+  111  /home/ubuntu//"*logo*"/workspace/src/assets/images/decodemtl-logo-black.png
+  112  history
+  113  grep "man" < history
+  114  grep "man" history
+  115  history grep "man"
+  116  history > hist.txt
+  117  grep "man" hist.txt
+  118  grep "man" < history
+  119  man cowsay
+  120  sudo apt-get install cowsay
+  121  man cowsay
+  122  grep "man" >< history
+  123  grep "man" | history
+  124  history | grep "man"
+  125  cd ~
+  126  pwd
+  127  man git clone
+  128  git clone git@github.com:noratop/command-line-workshop.git
+  129  cd command-line-workshop/
+  130  ls
+  131  git checkout -b cmd-history
+  132  history > history.txt
