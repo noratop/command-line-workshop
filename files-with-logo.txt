@@ -1,0 +1,4 @@
+/home/ubuntu/workspace/.c9/metadata/workspace/src/assets/images/decodemtl-logo-white.png
+/home/ubuntu/workspace/.c9/metadata/workspace/src/assets/images/decodemtl-logo-black.png
+/home/ubuntu/workspace/src/assets/images/decodemtl-logo-white.png
+/home/ubuntu/workspace/src/assets/images/decodemtl-logo-black.png
